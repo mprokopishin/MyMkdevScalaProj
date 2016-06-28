@@ -1,0 +1,25 @@
+products:
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> D:\Scala\Module1\My-Skeleton-spark\target\test-classes\com\test\core\streaming\FakeTest$$anonfun$1.class
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> D:\Scala\Module1\My-Skeleton-spark\target\test-classes\com\test\core\streaming\FakeTest.class
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> D:\Scala\Module1\My-Skeleton-spark\target\test-classes\com\test\core\streaming\SparkSpec$class.class
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> D:\Scala\Module1\My-Skeleton-spark\target\test-classes\com\test\core\streaming\SparkSpec.class
+binary dependencies:
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\com\holdenkarau\spark-testing-base_2.10\1.4.1_0.1.1\spark-testing-base_2.10-1.4.1_0.1.1.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\org\apache\spark\spark-core_2.10\1.5.2\spark-core_2.10-1.5.2.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\org\scala-lang\scala-library\2.10.4\scala-library-2.10.4.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\org\scalamock\scalamock-core_2.10\3.2\scalamock-core_2.10-3.2.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\org\scalamock\scalamock-scalatest-support_2.10\3.2\scalamock-scalatest-support_2.10-3.2.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> C:\Users\Максим\.m2\repository\org\scalatest\scalatest_2.10\2.2.4\scalatest_2.10-2.2.4.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> C:\Users\Максим\.m2\repository\org\apache\spark\spark-core_2.10\1.5.2\spark-core_2.10-1.5.2.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> C:\Users\Максим\.m2\repository\org\scala-lang\scala-library\2.10.4\scala-library-2.10.4.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> C:\Users\Максим\.m2\repository\org\scalatest\scalatest_2.10\2.2.4\scalatest_2.10-2.2.4.jar
+source dependencies:
+external dependencies:
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> com.test.core.streaming.Fake$
+class names:
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> com.test.core.streaming.FakeTest
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\FakeTest.scala -> com.test.core.streaming.FakeTest$$anonfun$1
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> com.test.core.streaming.SparkSpec
+   D:\Scala\Module1\My-Skeleton-spark\src\test\scala\com\test\core\streaming\SparkSpec.scala -> com.test.core.streaming.SparkSpec$class

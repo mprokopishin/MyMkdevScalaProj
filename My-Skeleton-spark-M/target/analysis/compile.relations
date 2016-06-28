@@ -1,0 +1,12 @@
+products:
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> D:\Scala\Module1\My-Skeleton-spark\target\classes\com\test\core\streaming\Fake$.class
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> D:\Scala\Module1\My-Skeleton-spark\target\classes\com\test\core\streaming\Fake.class
+binary dependencies:
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.m2\repository\org\apache\spark\spark-core_2.10\1.5.2\spark-core_2.10-1.5.2.jar
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.m2\repository\org\scala-lang\scala-library\2.10.4\scala-library-2.10.4.jar
+source dependencies:
+external dependencies:
+class names:
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> com.test.core.streaming.Fake
+   D:\Scala\Module1\My-Skeleton-spark\src\main\scala\com\test\core\streaming\Fake.scala -> com.test.core.streaming.Fake$
