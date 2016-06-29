@@ -1,0 +1,108 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Scala\Module1\My-Skeleton-spark-sbt\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> D:\Scala\Module1\My-Skeleton-spark-sbt\target\scala-2.10\classes\com\test\core\streaming\Fake$.class
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> D:\Scala\Module1\My-Skeleton-spark-sbt\target\scala-2.10\classes\com\test\core\streaming\Fake.class
+binary dependencies:
+5 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.0.0-preview.jar
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-2.0.0-preview.jar
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> C:\Users\Максим\.sbt\boot\scala-2.10.6\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> com.test.core.streaming.Fake
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> com.test.core.streaming.Fake$
+used names:
+21 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> <init>
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> AnyRef
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> Double
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> Fake
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> Logger
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> Milliseconds
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> RDD
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> SparkConf
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> SparkContext
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> StreamingContext
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> apache
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> com
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> core
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> log4j
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> org
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> rdd
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> rddToPairRDDFunctions
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> scala
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> spark
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> streaming
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> test
+product stamps:
+2 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\target\scala-2.10\classes\com\test\core\streaming\Fake$.class -> lastModified(1467223779318)
+D:\Scala\Module1\My-Skeleton-spark-sbt\target\scala-2.10\classes\com\test\core\streaming\Fake.class -> lastModified(1467223779311)
+source stamps:
+1 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> hash(5b46224cdeec37d8306b634353d848a237af3d16)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> lastModified(1466943514114)
+C:\Users\Максим\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.0.0-preview.jar -> lastModified(1463951968000)
+C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-2.0.0-preview.jar -> lastModified(1463952384000)
+C:\Users\Максим\.sbt\boot\scala-2.10.6\lib\scala-library.jar -> lastModified(1442568926000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Максим\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Logger
+C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-2.0.0-preview.jar -> org.apache.spark.SparkConf$
+C:\Users\Максим\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-2.0.0-preview.jar -> org.apache.spark.streaming.StreamingContext
+C:\Users\Максим\.sbt\boot\scala-2.10.6\lib\scala-library.jar -> scala.Double
+internal apis:
+1 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCjWj11AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNN0aJp0AAZub3RpZnlzcQB+AAw3xjWhdAAEd2FpdHNxAH4ADGqE8/d0AA0kYXNJbnN0YW5jZU9mc3EAfgAMuAIoEHQABmVxdWFsc3NxAH4ADOFxOid0AAxhc0luc3RhbmNlT2ZzcQB+AAywKCWfdAAMc3luY2hyb25pemVkc3EAfgAM3TztK3QADSRpc0luc3RhbmNlT2ZzcQB+AAy3e6t+dAAERmFrZXNxAH4ADBLCltR0AAlub3RpZnlBbGxzcQB+AAxdKTyZdAAMaXNJbnN0YW5jZU9mc3EAfgAMesdLtXQAAj09c3EAfgAM17f/inQACGZha2VjYWxjc3EAfgAM9XozUnQABWNsb25lc3EAfgAMd8ZsTnQACHRvU3RyaW5nc3EAfgAMOkNrbnQAAiE9c3EAfgAMx+uESHQACGdldENsYXNzc3EAfgAMnIod13QAAm5lc3EAfgAMptVX5nQAAmVxc3EAfgAMLj6fIXQAAiMjc3EAfgAMX5cnEnQACGZpbmFsaXplc3EAfgAM7fCmhnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHGNvbS50ZXN0LmNvcmUuc3RyZWFtaW5nLkZha2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4APAAAAABzcQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHdzcQB+AGp0AANBbnlzcQB+AG5zcQB+AHF1cQB+AHQAAAACc3EAfgB2dAAFc2NhbGFxAH4AfXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGNvbS50ZXN0c3EAfgCHdAANY29tLnRlc3QuY29yZXNxAH4Ah3QAA2NvbXNxAH4Ah3QAF2NvbS50ZXN0LmNvcmUuc3RyZWFtaW5nc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVnVojzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEBEOlxTY2FsYVxNb2R1bGUxXE15LVNrZWxldG9uLXNwYXJrLXNidFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUW0YiTN7sN9gwa2NDU9hIojevPRY=
+external apis:
+0 items
+source infos:
+1 items
+D:\Scala\Module1\My-Skeleton-spark-sbt\src\main\scala\com\test\core\streaming\Fake.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1aI8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQEQ6XFNjYWxhXE1vZHVsZTFcTXktU2tlbGV0b24tc3Bhcmstc2J0XHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
