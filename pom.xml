@@ -212,10 +212,6 @@
 					<configuration>
 						<source>1.7</source>
 						<target>1.7</target>
-						<arg>-Xfatal-warnings</arg>
-						<arg>-Xlint</arg>
-						<arg>-deprecation</arg>
-						<arg>-explaintypes</arg>
 					</configuration>
 				</plugin>
 			</plugins>
