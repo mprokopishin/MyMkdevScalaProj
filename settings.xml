@@ -257,16 +257,16 @@ under the License.
       <!--all requests to nexus via the mirror -->
       <repositories>
         <repository>
-          <id>central</id>
-          <url>http://central</url>
+          <id>maven-public</id>
+          <url>http://localhost:8081/repository/maven-public/</url>
           <releases><enabled>true</enabled></releases>
           <snapshots><enabled>true</enabled></snapshots>
         </repository>
       </repositories>
      <pluginRepositories>
         <pluginRepository>
-          <id>central</id>
-          <url>http://central</url>
+          <id>maven-public</id>
+          <url>http://localhost:8081/repository/maven-public/</url>
           <releases><enabled>true</enabled></releases>
           <snapshots><enabled>true</enabled></snapshots>
         </pluginRepository>
